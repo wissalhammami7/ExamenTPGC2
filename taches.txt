@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 3- Evaluation des performances des modeles a laide de metriques appropries(accuracy,precision,rappel,F1-score,etc..)
+=======
+1- Collecte , nettoyage et preparation des donnees pour lentrainement des modeles 
+2- Conception et implementation de modeles des machines learning ou deep learnin 
+4- Optimiser des hyperparametres et ameliorer des performances du modeles
+5- Deploimenet du modele et integration dans une application ou une API
+
+>>>>>>> journalgc2
