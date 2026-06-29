@@ -1,2 +1,3 @@
 1- Collecte , nettoyage et preparation des donnees pour lentrainement des modeles 
 2- Conception et implementation de modeles de machine learning ou deep learning
+4- Optimisation des hyperparametres et amelioeration des perfermances du modeles
